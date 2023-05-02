@@ -1,10 +1,11 @@
-# movie-app
+## Movie App
 
+**Description:** This web application provides a comprehensive list of movies and enables users to search for their preferred movies.
 
-name: 'Movie App',
-    descriptions:
-      'This web application that provides a comprehensive list of movies and enables users to search for their preferred movies.',
-    tech: 'ReactJs, Redux ToolKit',
-    reflections:
-      'Discover how to efficiently manage state and retrieve data from an API using Redux, and also how to add different categories of movies.',
+**Technology Used:** ReactJs, Redux ToolKit
 
+**Reflections:** Through this project, I learned how to efficiently manage state and retrieve data from an API using Redux. I also learned how to add different categories of movies.
+
+**Status:** 'Completed'
+
+**Category:** 'Practise'
