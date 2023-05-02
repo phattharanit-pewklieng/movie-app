@@ -1,0 +1,28 @@
+nav {
+  background-color: #000836;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+//nav bar
+.nav-wrapper{
+  display: flex;
+  list-style: none;
+  font-size: 20px;
+
+  li {
+    margin: 0 1rem;
+
+    a {
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+      
+    }
+    :hover{
+      color: rgb(255, 227, 134);
+    }
+  }
+
+}

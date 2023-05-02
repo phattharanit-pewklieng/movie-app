@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  background: #d4c4bc;
+}
+
+
+/* center */
+.container{
+  max-width: 1140px;
+  margin: 0 auto;
+}
